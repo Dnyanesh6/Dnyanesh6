@@ -17,8 +17,8 @@ Full-Stack Developer (MERN) â€¢ Building React, Node.js & MongoDB applications â
 
 ### Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-5847eb?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-5847eb?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-5847eb?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-5847eb?style=flat-square&logo=node.js&logoColor=white) !(
-![MongoDB](https://img.shields.io/badge/-MongoDB-5847eb?style=flat-square&logo=mongodb&logoColor=white) !
+![JavaScript](https://img.shields.io/badge/-JavaScript-5847eb?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-5847eb?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-5847eb?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-5847eb?style=flat-square&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-5847eb?style=flat-square&logo=mongodb&logoColor=white) 
 ### GitHub Stats:
 
 ![Dnyanesh6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh6&show_icons=true&theme=radical)
