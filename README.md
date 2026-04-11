@@ -1,41 +1,72 @@
-# Hi there, I'm Dnyanesh U. Chaudhari 👋
+<!-- Header -->
+<h1 align="center">Hi there, I'm Dnyanesh U. Chaudhari 👋</h1>
 
-## Full Stack Developer
+<p align="center">
+  <b>Full-Stack Developer (MERN) · Web3 / Solana Explorer · API Builder</b><br/>
+  <i>Currently building cool stuff & learning harder things_</i>
+</p>
 
-Full-Stack Developer (MERN) • Building React, Node.js & MongoDB applications • Exploring Web3 & Solana 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dnyanesh6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+---
 
-🌍 Based in Gujarat,India
+### 🌍 About me
 
-🌐 Check out my website [dnyanesh-one.vercel.app/](https://dnyanesh-one.vercel.app/)
+- 🏠 Based in **Gujarat, India**
+- 💼 **Open to job opportunities** — full-stack / Web3 roles
+- 🤝 **Looking for collaborators** on interesting projects
+- 🚀 Currently **learning new tech** (Web3, Solana, and beyond)
+- 🌐 Portfolio: [dnyanesh-one.vercel.app](https://dnyanesh-one.vercel.app)
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it.
 
-### Connect with me:
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dnyanesh6)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Dnyanesh05_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyanesh-chaudhari)
+### 🛠️ Languages & Tools
 
-### Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-5847eb?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-5847eb?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-5847eb?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-5847eb?style=flat-square&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-5847eb?style=flat-square&logo=mongodb&logoColor=white) 
-### GitHub Stats:
+---
 
-![Dnyanesh6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh6&show_icons=true&theme=radical)
+### 🚀 What I Build
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh6&layout=compact&theme=radical)](https://github.com/Dnyanesh6)
+| Area | Description |
+|------|-------------|
+| ⚡ **Web3 / Solana** | dApps, wallet integrations, on-chain programs on Solana |
+| 🧩 **SaaS & Web Apps** | Full-stack MERN apps from idea to deployment |
+| 🔌 **APIs & Backends** | RESTful APIs, auth flows, and scalable server-side systems |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh6&theme=dark)](https://git.io/streak-stats)
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=Dnyanesh6&color=brightgreen)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnyanesh6&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh6&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh6&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
+---
 
-### Featured Repositories
+### 🤝 Connect with me
 
-<table>
-<tr><td align="center" width="50%"><a href="https://github.com/Dnyanesh6/portfolio-dapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyanesh6&repo=portfolio-dapp&show_owner=false" alt="portfolio-dapp" /></a></td><td align="center" width="50%"><a href="https://github.com/Dnyanesh6/DnyaneshFolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyanesh6&repo=DnyaneshFolio&show_owner=false" alt="DnyaneshFolio" /></a></td></tr><tr><td align="center" width="50%"><a href="https://github.com/Dnyanesh6/SolScan.lite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyanesh6&repo=SolScan.lite&show_owner=false" alt="SolScan.lite" /></a></td><td align="center" width="50%"><a href="https://github.com/Dnyanesh6/round_table_frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyanesh6&repo=round_table_frontend&show_owner=false" alt="round_table_frontend" /></a></td></tr><tr><td align="center" width="50%"><a href="https://github.com/Dnyanesh6/school-of-solana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyanesh6&repo=school-of-solana&show_owner=false" alt="school-of-solana" /></a></td><td align="center" width="50%"><a href="https://github.com/Dnyanesh6/Dnyanesh6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyanesh6&repo=Dnyanesh6&show_owner=false" alt="Dnyanesh6" /></a></td></tr>
-</table>
-
-
+<p>
+  <a href="https://github.com/Dnyanesh6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://twitter.com/Dnyanesh05_](https://x.com/Dnyanesh05_)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/dnyanesh-chaudhari-48942328a](https://www.linkedin.com/in/dnyanesh-chaudhari-48942328a/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dnyanesh-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
