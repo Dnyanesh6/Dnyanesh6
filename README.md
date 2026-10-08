@@ -18,7 +18,7 @@
 - 💼 **Open to job opportunities** — full-stack / Web3 roles
 - 🤝 **Looking for collaborators** on interesting projects
 - 🚀 Currently **exploring Web3, Solana & beyond**
-- 🌐 Portfolio: [dnyanesh-one.vercel.app](https://dnyanesh-one.vercel.app)
+- 🌐 Portfolio: [dnyanesh-one.vercel.app](https://dnyanesh.xyz)
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it.
 
 ---
